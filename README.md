@@ -7,4 +7,4 @@ Project relative to the analysis of the HTRU2 dataset through the use of Machine
 * [library](library) is a folder containing a collection of Machine Learning algorithms.
 
 # Important!
-Since this is a project relative to the study of ML algorithms, no ML libraries or ML toolboxes have been used.
+Since this is a project relative to the study of ML models, no ML libraries or ML toolboxes have been used.
