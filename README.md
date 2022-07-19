@@ -6,9 +6,9 @@ Project relative to the analysis of the HTRU2 dataset through the use of Machine
 * [main.py](main.py) is the file from which you can obtain every plot and value shown in the paper.
 * [library](library) is a folder containing a collection of Machine Learning algorithms.
 
-## Important!
-Since this is a project relative to the study of ML models, no ML libraries or ML toolboxes have been used.
-
 ## Known issues in [main.py](main.py) (as highlighted by the professor)
 * application of PCA
 * score calibration of the training set
+
+## Important!
+Since this is a project relative to the study of ML models, no ML libraries or ML toolboxes have been used.
